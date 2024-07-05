@@ -10,4 +10,8 @@ This project focuses on analyzing Clemson University’s athletics data, examini
 	•	Analyzed Clemson University’s performance against other teams, providing insights into strengths and areas for improvement.
 
 This EDA project utilizes statistical techniques and visualizations to derive actionable insights from the data.
-![image](https://github.com/psrikha/Clemson-Athletics-Data-Analysis/assets/116040520/11419d3e-bd47-48ef-a404-a27896f338e1)
+
+ ![image](https://github.com/psrikha/Clemson-Athletics-Data-Analysis/assets/116040520/11419d3e-bd47-48ef-a404-a27896f338e1)
+ ![image](https://github.com/psrikha/Clemson-Athletics-Data-Analysis/assets/116040520/baed934a-2f2d-480b-bb9a-c9d0cc0b368a)
+ ![image](https://github.com/psrikha/Clemson-Athletics-Data-Analysis/assets/116040520/7585d5a4-9a37-4983-a26a-ace33294e4a8)
+
